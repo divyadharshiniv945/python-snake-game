@@ -1,3 +1,4 @@
+# python snake game
 import pygame
 import random
 pygame.init()
